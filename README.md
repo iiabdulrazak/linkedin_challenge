@@ -1,2 +1,2 @@
-# linkedin_challenge
+# LinkedIn Challenge from FestMan
 LinkedIn Challenge from FestMan
