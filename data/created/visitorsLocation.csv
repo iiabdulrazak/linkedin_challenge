@@ -1,0 +1,327 @@
+,Location,Total views
+0,Greater Boston Area,136
+1,Greater Chicago Area,10
+2,Dallas/Fort Worth Area,54
+3,Greater Detroit Area,19
+4,"Houston, Texas Area",8
+5,Greater Los Angeles Area,1
+6,"Orange County, California Area",1
+7,Greater Atlanta Area,6
+8,Miami/Fort Lauderdale Area,3
+9,Greater Milwaukee Area,2
+10,"Austin, Texas Area",7
+11,"Bakersfield, California Area",6
+12,Greater New York City Area,72
+13,Greater Philadelphia Area,10
+14,"Portland, Oregon Area",8
+15,"Sacramento, California Area",10
+16,San Francisco Bay Area,62
+17,Greater Seattle Area,30
+18,Washington D.C. Metro Area,27
+19,"Birmingham, Alabama Area",2
+20,"Buffalo/Niagara, New York Area",4
+21,"Urbana-Champaign, Illinois Area",1
+22,"Charlotte, North Carolina Area",1
+23,"Columbus, Ohio Area",7
+24,"Greater Grand Rapids, Michigan Area",2
+25,"Hartford, Connecticut Area",5
+26,"Indianapolis, Indiana Area",3
+27,"Jacksonville, Florida Area",7
+28,"Lexington, Kentucky Area",10
+29,"McAllen, Texas Area",2
+30,"Medford, Oregon Area",6
+31,Greater Minneapolis-St. Paul Area,8
+32,"Greater Nashville Area, TN",1
+33,"Parkersburg, West Virginia Area",14
+34,"Phoenix, Arizona Area",2
+35,"Raleigh-Durham, North Carolina Area",8
+36,"St. Cloud, Minnesota Area",16
+37,Greater Salt Lake City Area,10
+38,"San Antonio, Texas Area",8
+39,"Wilmington, North Carolina Area",5
+40,Singapore,3
+41,"Aberdeen, United Kingdom",2
+42,"Birmingham, United Kingdom",12
+43,"Bradford, United Kingdom",13
+44,"Bolton, United Kingdom",9
+45,"Bristol, United Kingdom",2
+46,"Chelmsford, United Kingdom",2
+47,"London, United Kingdom",24
+48,"Guildford, United Kingdom",2
+49,"Hemel Hempstead, United Kingdom",4
+50,"Luton, United Kingdom",2
+51,"Manchester, United Kingdom",12
+52,"Rochester, United Kingdom",5
+53,"Milton Keynes, United Kingdom",8
+54,"Newcastle upon Tyne, United Kingdom",18
+55,"Norwich, United Kingdom",7
+56,"Oldham, United Kingdom",9
+57,"Reading, United Kingdom",22
+58,"Romford, United Kingdom",9
+59,"Swindon, United Kingdom",6
+60,"Tonbridge, United Kingdom",2
+61,"Cleveland, United Kingdom",3
+62,"Warrington, United Kingdom",2
+63,"Lerwick, United Kingdom",12
+64,"Ontario, Canada",11
+65,"Kitchener, Canada Area",19
+66,"Winnipeg, Canada Area",2
+67,"London, Canada Area",3
+68,"Alberta, Canada",6
+69,"Edmonton, Canada Area",5
+70,"Halifax, Canada Area",11
+71,"Toronto, Canada Area",44
+72,"Calgary, Canada Area",64
+73,"Melbourne, Australia",149
+74,"Perth, Australia",10
+75,"Queensland, Australia",4
+76,"Brisbane, Australia",27
+77,"Sydney, Australia",224
+78,"Antwerp Area, Belgium",10
+79,"Liège Area, Belgium",4
+80,"Geneva Area, Switzerland",6
+81,"Zürich Area, Switzerland",10
+82,"Berlin Area, Germany",30
+83,"Bremen Area, Germany",1
+84,"Cologne Area, Germany",9
+85,"Erfurt Area, Germany",3
+86,"Frankfurt Am Main Area, Germany",53
+87,"Halle-Neustadt Area, Germany",13
+88,"Hamburg Area, Germany",17
+89,"Kassel Area, Germany",12
+90,"Munich Area, Germany",55
+91,"Stuttgart Area, Germany",5
+92,"Barcelona Area, Spain",37
+93,"Gijón Area, Spain",55
+94,"Madrid Area, Spain",18
+95,"Murcia Area, Spain",2
+96,"Brest Area, France",12
+97,"Grenoble Area, France",2
+98,"Le Havre Area, France",1
+99,"Lille Area, France",8
+100,"Limoges Area, France",1
+101,"Lyon Area, France",19
+102,"Nice Area, France",4
+103,"Paris Area, France",62
+104,"Perpignan (Perpinyà) Area, France",2
+105,"Milan Area, Italy",13
+106,"Pordenone Area, Italy",1
+107,"Ravenna Area, Italy",6
+108,"Turin Area, Italy",13
+109,"Amsterdam Area, Netherlands",15
+110,"Apeldoorn Area, Netherlands",12
+111,"Eindhoven Area, Netherlands",19
+112,"Enschede Area, Netherlands",1
+113,"Groningen Area, Netherlands",2
+114,"Nijmegen Area, Netherlands",8
+115,"The Hague Area, Netherlands",34
+116,"Utrecht Area, Netherlands",8
+117,"Bergen Area, Norway",5
+118,"Oslo Area, Norway",2
+119,"Cape Town Area, South Africa",46
+120,"Durban Area, South Africa",2
+121,"Johannesburg Area, South Africa",72
+122,"Phalaborwa Area, South Africa",2
+123,"Polokwane Area, South Africa",2
+124,"Rotterdam Area, Netherlands",3
+125,"Mexico City Area, Mexico",6
+126,"Toluca Area, Mexico",3
+127,"Belém Area, Brazil",1
+128,"Rio de Janeiro Area, Brazil",5
+129,"Araruama Area, Brazil",20
+130,"Belo Horizonte Area, Brazil",5
+131,"São Luís Area, Brazil",1
+132,"Uberlândia Area, Brazil",23
+133,"Goiânia Area, Brazil",1
+134,"Recife Area, Brazil",1
+135,"Manaus Area, Brazil",65
+136,"São Paulo Area, Brazil",75
+137,"Brasília Area, Brazil",2
+138,"Curitiba Area, Brazil",2
+139,"Coimbatore Area, India",50
+140,"Cochin Area, India",48
+141,"Varanasi Area, India",44
+142,"Sambalpur Area, India",17
+143,"Hyderabad Area, India",941
+144,"Salur Area, India",2
+145,"Tiptur Area, India",15
+146,"Bhavnagar Area, India",12
+147,"Salem Area, India",15
+148,"Hubli Area, India",66
+149,"Chodavaram Area, India",13
+150,"Vadodara Area, India",83
+151,"Krishnagiri Area, India",8
+152,"Calicut Area, India",46
+153,"Athni Area, India",7
+154,"Bhimavaram Area, India",42
+155,"Kanpur Area, India",27
+156,"Asansol Area, India",56
+157,"Kota Area, India",13
+158,"Ajmer Area, India",2
+159,"Bhawanipatna Area, India",3
+160,"Ichalkaranji Area, India",51
+161,"Chhindwara Area, India",12
+162,"Bhadravati Area, India",7
+163,"Korba Area, India",6
+164,"Payyannur Area, India",15
+165,"Bareilly Area, India",10
+166,"Sitamarhi Area, India",6
+167,"Patna Area, India",23
+168,"Chiplun Area, India",113
+169,"Udaipur Area, India",16
+170,"Nagpur Area, India",110
+171,"Belagavi Area, India",73
+172,"Sira Area, India",14
+173,"Rewa Area, India",10
+174,"Dimapur Area, India",2
+175,"Mysuru Area, India",46
+176,"Muzaffarpur Area, India",9
+177,"Tiruppur Area, India",79
+178,"Thiruvananthapuram Area, India",19
+179,"Digras Area, India",21
+180,"Trichur Area, India",12
+181,"Batala Area, India",23
+182,"Parbhani Area, India",20
+183,"Amla Area, India",28
+184,"Gwalior Area, India",27
+185,"Dhule Area, India",22
+186,"Chandigarh Area, India",99
+187,"Basti Area, India",4
+188,"Madurantakam Area, India",4
+189,"Madurai Area, India",20
+190,"Chennai Area, India",617
+191,"Pavagada Area, India",2
+192,"Madikeri Area, India",9
+193,"Chandrapur Area, India",11
+194,"Nasik Area, India",24
+195,"Tirupati Area, India",24
+196,"Mangalore Area, India",34
+197,"Pandharpur Area, India",99
+198,"Alleppey Area, India",14
+199,"Allahabad Area, India",15
+200,"Tinsukia Area, India",15
+201,"Jalandhar Area, India",12
+202,"Arakkonam Area, India",4
+203,"Shivamoga Area, India",3
+204,"Shiliguri Area, India",2
+205,"Imphal Area, India",12
+206,"Kolkata Area, India",482
+207,"Akola Area, India",33
+208,"Gorakhpur Area, India",2
+209,"Morbi Area, India",26
+210,"Moradabad Area, India",9
+211,"Jharsuguda Area, India",2
+212,"Ahmedabad Area, India",123
+213,"Golaghat Area, India",4
+214,"Guntur Area, India",5
+215,"Lucknow Area, India",72
+216,"Teni Area, India",81
+217,"Bengaluru Area, India",1790
+218,"Kalyan Area, India",718
+219,"Yamunanagar Area, India",1
+220,"Mumbai Area, India",1368
+221,"New Delhi Area, India",1123
+222,"Dehra Dun Area, India",30
+223,"Raipur Area, India",16
+224,"Jamshedpur Area, India",4
+225,"Jamnagar Area, India",3
+226,"Quilon Area, India",8
+227,"Warangal Area, India",2
+228,"Kalpetta Area, India",1
+229,"Darbhanga Area, India",4
+230,"Agra Area, India",9
+231,"Nizamabad Area, India",2
+232,"Vriddhachalam Area, India",5
+233,"Amalner Area, India",2
+234,"Phalodi Area, India",33
+235,"Vishakhapatnam Area, India",143
+236,"Jaipur Area, India",199
+237,"Tirunelveli Area, India",108
+238,"Villupuram Area, India",9
+239,"Proddatur Area, India",7
+240,"Nimbahera Area, India",10
+241,"Vijayawada Area, India",63
+242,"Agartala Area, India",9
+243,"Jabalpur Area, India",10
+244,"Puducherry Area, India",2
+245,"Pune Area, India",225
+246,"Bhubaneshwar Area, India",39
+247,"Cuttack Area, India",14
+248,"Sangrur Area, India",3
+249,"Karur Area, India",60
+250,"Bhopal Area, India",34
+251,"Surat Area, India",3
+252,"Cuddapah Area, India",42
+253,"Cuddalore Area, India",13
+254,"Nellore Area, India",6
+255,"Indore Area, India",90
+256,"Gurgaon, India",209
+257,"Noida Area, India",52
+258,"Porto Area, Portugal",12
+259,"Portimão Area, Portugal",2
+260,"Lisbon Area, Portugal",22
+261,"Saint Petersburg, Russian Federation",4
+262,"Cluj County, Romania",6
+263,"Bucharest, Romania",17
+264,"Ankara, Turkey",5
+265,"Istanbul, Turkey",111
+266,"Selangor, Malaysia",75
+267,"Johor, Malaysia",3
+268,"Malacca, Malaysia",6
+269,"Sarawak, Malaysia",4
+270,"Perak, Malaysia",24
+271,"Kuala Lumpur, Malaysia",21
+272,"Stockholm County, Sweden",63
+273,"Umea, Sweden",7
+274,"Gothenburg, Sweden",1
+275,"Bialystok, Podlaskie District, Poland",45
+276,"Warsaw, Masovian District, Poland",55
+277,"Lodz, Lodz District, Poland",6
+278,"Gdansk, Pomeranian District, Poland",7
+279,"Poznan, Greater Poland District, Poland",6
+280,"Wroclaw, Lower Silesian District, Poland",37
+281,"Cracow, Lesser Poland District, Poland",1
+282,"Tarnow, Lesser Poland District, Poland",20
+283,"Central Java Province, Indonesia",26
+284,"Greater Jakarta Area, Indonesia",104
+285,"West Nusa Tenggara Province, Indonesia",9
+286,"Banten Province, Indonesia",2
+287,"West Java Province, Indonesia",89
+288,"South Kalimantan Province, Indonesia",5
+289,"Bengkulu Area, Bengkulu, Indonesia",11
+290,"Surabaya Area, East Java, Indonesia",10
+291,"Semarang Area, Central Java, Indonesia",14
+292,"Yogyakarta Area, Yogyakarta, Indonesia",3
+293,"Prague, The Capital, Czech Republic",23
+294,"District Hodonin, Czech Republic",5
+295,"Pesaro Urbino Area, Italy",1
+296,"Hangzhou, Zhejiang, China",1
+297,"Auckland, New Zealand",28
+298,"Canterbury & West Coast, New Zealand",9
+299,"Northland, New Zealand",1
+300,"Waikato, New Zealand",5
+301,"Wellington & Wairarapa, New Zealand",6
+302,"CAR - Cordillera Administrative Region, Philippines",6
+303,"NCR - National Capital Region, Philippines",11
+304,"Region IVA - Calabarzon, Philippines",29
+305,"Chiang Mai, Thailand",1
+306,"Copenhagen Area, Capital Region, Denmark",13
+307,Austria area,3
+308,Algeria area,57
+309,Hungary area,3
+310,"Salé Prefecture, Morocco",11
+311,"Fès Prefecture, Morocco",2
+312,"Rabat Prefecture, Morocco",9
+313,"Agadir Ida-Outanane Prefecture, Morocco",2
+314,"Nabeul Governorate, Tunisia",1
+315,"Mannouba Governorate, Tunisia",1
+316,"Ben Arous Governorate, Tunisia",2
+317,"Tunis Governorate, Tunisia",29
+318,"Kebili Governorate, Tunisia",32
+319,"Sfax Governorate, Tunisia",2
+320,"Sousse Governorate, Tunisia",19
+321,"Caracas Area, Venezuela",3
+322,"Federal Capial &AJK, Pakistan",24
+323,"Southern Punjab Multan, Pakistan",9
+324,"Lahore, Pakistan",196
+325,"Northern Punjab Rawalpindi, Pakistan",9
